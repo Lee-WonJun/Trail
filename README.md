@@ -57,7 +57,6 @@ stop: A function that handles exceptions during the execution of the station.
 
 
 ```kotlin
-Copy code
 val station = station(
     fn = { i: Int -> i + 1 },
     converter = { i: String -> i.toInt() },
