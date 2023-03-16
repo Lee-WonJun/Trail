@@ -66,3 +66,7 @@ val station = station(
 1. convert the input to Int
 2. execute the fn function
 3. if fn throws an exception, execute the stop function.
+
+
+## Small talk that doesn't matter 
+- This Readme is written in ChatGPT
